@@ -69,3 +69,5 @@ class PrimeNumberTable
 	}
 }
 //Run Complexity of code is O(N^2) due to the nested for loop for doing the multiplication.
+//Space complexity is O(N^2) for 2d array
+//Scales by N^2
